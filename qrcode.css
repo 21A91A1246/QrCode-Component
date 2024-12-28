@@ -1,0 +1,38 @@
+body{
+    align-items: center;
+    text-align: center;
+    padding-top: 10%;
+    padding-left: 45%;
+    margin: 0px;
+    background-color: rgb(215, 236, 250);
+}
+#maindiv{
+    position: fixed;
+    width: 190px;
+    height: 50%; /* not working*/
+    border-radius: 9px;
+    background-color: white;
+    box-shadow: 4px 5px 8px 0px rgba(0,0,0,0.36);
+    
+}
+
+#imagediv{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 80%;
+    height: 30%; /* not working*/
+}
+img{
+    border-radius: 9px;
+    height: 165px;
+    width: 169px;
+}
+#htag{
+    font-family: 'Times New Roman', Times, serif;
+}
+#ptag{
+    font-size: x-small;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 15px;
+    opacity: 50%;
+}
